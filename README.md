@@ -15,5 +15,5 @@ Part 3:
 -Made a _posts/ directory with a file named 2021-09-01-site-launched.md. added the given code. 
 -edited your _config.yml file and added the given code. (it will allow you to control the structure of the permalinks)
 -link to website: https://bint-hanif.github.io/blog/2021/09/01/site-launched
--created an about page that is linked in blog
+-created an about page that is in the index.html page
 
